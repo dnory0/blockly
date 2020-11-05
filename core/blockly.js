@@ -26,6 +26,7 @@
 
 // Top level object for Blockly.
 goog.provide('Blockly');
+goog.require('goog.debug.Error');
 goog.require('goog.debug.ErrorHandler');
 goog.require('goog.events.EventWrapper');
 goog.require('Blockly.GoogMissing');
