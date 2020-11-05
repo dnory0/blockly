@@ -26,7 +26,9 @@
 
 // Top level object for Blockly.
 goog.provide('Blockly');
-
+goog.require('goog.debug.ErrorHandler');
+goog.require('goog.events.EventWrapper');
+goog.require('Blockly.GoogMissing');
 goog.require('Blockly.BlockSvg');
 goog.require('Blockly.FieldAngle');
 goog.require('Blockly.FieldCheckbox');
