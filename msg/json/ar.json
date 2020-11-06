@@ -325,7 +325,7 @@
 	"THYMIO_SUBROUTINE_DEFINE_SUBROUTINE": "subroutine",
 	"THYMIO_EVENT_BUTTON_HELPURL": "https://www.thymio.org/en:thymiotutorielp2",
 	"THYMIO_EVENT_BUTTON_TOOLTIP": "React to a button press or release event",
-	"THYMIO_EVENT_BUTTON": "on %1 button %2",
+	"THYMIO_EVENT_BUTTON": "الزر %2 في %1",
 	"THYMIO_EVENT_BUTTON_CENTER": "center",
 	"THYMIO_EVENT_BUTTON_FORWARD": "forward",
 	"THYMIO_EVENT_BUTTON_BACKWARD": "backward",
