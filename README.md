@@ -4,4 +4,4 @@ This is a fork of [@mobsya-association/node-blockly](https://github.com/Mobsya/b
 
 The [@mobsya-association/node-blockly](https://github.com/Mobsya/blockly) is itself a fork of Google's Blockly that adds blocks to control the Thymio robot. It also provides an AESL code generator that converts visual programs using these blocks to the Aseba language.
 
-**Note:** This repository is best suited as a git submodule for [node-blockly project](https://github.com/dnory0/node-blockly), consider developping on the latter rather on this one.
+**Note:** This repository is best suited as a git submodule for [node-blockly project](https://github.com/hahouari/node-blockly), consider developping on the latter rather on this one.

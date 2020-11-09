@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dnory0/blockly.git"
+    "url": "git+https://github.com/hahouari/blockly.git"
   },
   "bugs": {
-    "url": "https://github.com/dnory0/blockly/issues"
+    "url": "https://github.com/hahouari/blockly/issues"
   },
   "homepage": "https://developers.google.com/blockly/",
   "author": "Hocine Abdellatif Houari",
